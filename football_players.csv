@@ -1,0 +1,481 @@
+player_id,name,team,position,season,age,nationality,matches_played,minutes_played,goals,assists,shots,shots_on_target,pass_accuracy,dribbles,tackles,yellow_cards,red_cards,rating,data_source
+1,Ivan Fonseca,FC Metropolis,DEF,2021-22,25,Brazil,10,640,3,4,5,5,85.7,21,73,4,1,5.6,Synthetic — not real-world data
+1,Ivan Fonseca,FC Metropolis,DEF,2022-23,19,Colombia,33,2904,0,5,0,0,77.9,37,92,4,3,6.3,Synthetic — not real-world data
+1,Ivan Fonseca,FC Metropolis,DEF,2023-24,26,Spain,34,2346,6,5,8,7,58.9,36,76,5,2,5.4,Synthetic — not real-world data
+2,Neylan Zubizarreta,FC Metropolis,MID,2021-22,29,Portugal,35,2660,8,2,16,13,69.4,51,45,2,1,6.5,Synthetic — not real-world data
+2,Neylan Zubizarreta,FC Metropolis,MID,2022-23,18,Spain,34,2142,13,5,13,13,57.8,25,33,2,2,5.5,Synthetic — not real-world data
+2,Neylan Zubizarreta,FC Metropolis,MID,2023-24,28,Uruguay,32,2880,6,4,22,15,87.9,63,79,4,0,6.4,Synthetic — not real-world data
+3,Eduardo García,FC Metropolis,FWD,2021-22,35,Mexico,14,924,7,6,19,10,71.5,118,20,1,1,6.4,Synthetic — not real-world data
+3,Eduardo García,FC Metropolis,FWD,2022-23,17,Japan,33,2970,22,12,79,76,65.0,109,27,8,3,6.7,Synthetic — not real-world data
+3,Eduardo García,FC Metropolis,FWD,2023-24,28,South Korea,11,979,25,9,25,25,93.2,83,9,5,0,6.7,Synthetic — not real-world data
+4,Theo Okonkwo,FC Metropolis,MID,2021-22,23,Germany,28,1792,6,10,19,17,56.8,71,88,9,1,6.1,Synthetic — not real-world data
+4,Theo Okonkwo,FC Metropolis,MID,2022-23,17,Brazil,10,890,14,6,36,23,93.0,43,71,9,1,7.0,Synthetic — not real-world data
+4,Theo Okonkwo,FC Metropolis,MID,2023-24,17,Denmark,22,1386,8,8,9,8,89.7,41,43,1,0,6.4,Synthetic — not real-world data
+5,Kenji Sørensen,FC Metropolis,FWD,2021-22,19,Mexico,20,1280,15,3,15,15,93.4,93,33,1,0,5.6,Synthetic — not real-world data
+5,Kenji Sørensen,FC Metropolis,FWD,2022-23,27,Germany,35,2345,32,10,105,65,65.4,26,8,9,0,6.9,Synthetic — not real-world data
+5,Kenji Sørensen,FC Metropolis,FWD,2023-24,20,Colombia,34,2720,32,9,67,41,71.9,43,39,0,0,7.5,Synthetic — not real-world data
+6,Wojtek Traoré,FC Metropolis,MID,2021-22,33,Mexico,26,1716,8,8,12,11,72.2,22,42,8,2,5.5,Synthetic — not real-world data
+6,Wojtek Traoré,FC Metropolis,MID,2022-23,23,Nigeria,29,2175,9,7,21,19,59.0,21,80,8,2,5.5,Synthetic — not real-world data
+6,Wojtek Traoré,FC Metropolis,MID,2023-24,37,South Korea,29,2262,10,16,25,14,58.7,21,44,3,2,6.1,Synthetic — not real-world data
+7,Artem Ruiz,FC Metropolis,FWD,2021-22,34,Japan,34,2244,16,5,57,54,94.8,24,39,6,0,6.1,Synthetic — not real-world data
+7,Artem Ruiz,FC Metropolis,FWD,2022-23,21,Brazil,21,1428,13,10,29,18,58.4,32,13,1,0,6.8,Synthetic — not real-world data
+7,Artem Ruiz,FC Metropolis,FWD,2023-24,35,Uruguay,15,1170,11,1,32,30,64.5,90,29,3,3,5.8,Synthetic — not real-world data
+8,Finn Kovač,FC Metropolis,FWD,2021-22,36,Italy,31,2046,30,10,119,48,59.4,86,17,1,1,7.2,Synthetic — not real-world data
+8,Finn Kovač,FC Metropolis,FWD,2022-23,22,Uruguay,38,3420,12,7,12,12,82.2,111,29,7,0,5.8,Synthetic — not real-world data
+8,Finn Kovač,FC Metropolis,FWD,2023-24,25,Mexico,22,1584,32,5,111,106,91.8,55,39,2,0,7.0,Synthetic — not real-world data
+9,Giorgio Costa,FC Metropolis,MID,2021-22,22,Uruguay,23,1702,1,6,2,2,70.4,66,31,9,3,5.1,Synthetic — not real-world data
+9,Giorgio Costa,FC Metropolis,MID,2022-23,25,Germany,33,2871,5,9,14,8,73.5,67,79,1,1,5.4,Synthetic — not real-world data
+9,Giorgio Costa,FC Metropolis,MID,2023-24,35,Brazil,36,2916,1,10,1,1,71.4,86,48,2,0,6.6,Synthetic — not real-world data
+10,Christoph Silva,FC Metropolis,GK,2021-22,17,Colombia,24,2016,1,1,4,2,89.6,4,4,6,3,5.4,Synthetic — not real-world data
+10,Christoph Silva,FC Metropolis,GK,2022-23,18,Netherlands,24,1824,2,0,3,2,70.7,2,10,0,0,6.1,Synthetic — not real-world data
+10,Christoph Silva,FC Metropolis,GK,2023-24,21,Brazil,12,1080,0,0,1,0,89.6,0,4,4,1,6.2,Synthetic — not real-world data
+11,Mateo Flores,FC Metropolis,DEF,2021-22,18,Italy,19,1311,2,0,6,2,60.2,17,33,0,0,5.8,Synthetic — not real-world data
+11,Mateo Flores,FC Metropolis,DEF,2022-23,33,South Korea,16,1360,1,1,2,2,88.3,16,94,5,3,5.7,Synthetic — not real-world data
+11,Mateo Flores,FC Metropolis,DEF,2023-24,31,Denmark,24,1968,6,4,19,7,87.2,38,67,1,1,6.1,Synthetic — not real-world data
+12,Ali Gomes,FC Metropolis,MID,2021-22,20,Belgium,11,869,9,7,9,9,86.3,39,70,0,0,6.9,Synthetic — not real-world data
+12,Ali Gomes,FC Metropolis,MID,2022-23,27,Croatia,33,2508,10,2,37,29,73.4,43,25,4,1,5.7,Synthetic — not real-world data
+12,Ali Gomes,FC Metropolis,MID,2023-24,19,France,25,1750,3,16,11,9,60.1,84,35,7,3,5.8,Synthetic — not real-world data
+13,Lorenzo Fernández,FC Metropolis,MID,2021-22,21,Netherlands,36,3168,2,14,3,2,56.6,14,61,5,0,6.2,Synthetic — not real-world data
+13,Lorenzo Fernández,FC Metropolis,MID,2022-23,31,Croatia,21,1785,14,3,27,23,82.6,82,45,8,2,6.4,Synthetic — not real-world data
+13,Lorenzo Fernández,FC Metropolis,MID,2023-24,30,Spain,25,2200,1,11,4,1,58.4,61,66,7,1,5.6,Synthetic — not real-world data
+14,Thiago Menezes,FC Metropolis,MID,2021-22,21,Belgium,22,1870,14,12,20,16,90.8,27,57,2,2,6.1,Synthetic — not real-world data
+14,Thiago Menezes,FC Metropolis,MID,2022-23,19,Netherlands,16,1344,1,8,2,2,76.4,34,36,3,0,6.2,Synthetic — not real-world data
+14,Thiago Menezes,FC Metropolis,MID,2023-24,18,Senegal,22,1694,4,16,9,5,77.3,49,61,8,0,6.1,Synthetic — not real-world data
+15,James Brennan,FC Metropolis,DEF,2021-22,27,Netherlands,15,960,0,0,0,0,59.1,10,99,6,3,5.0,Synthetic — not real-world data
+15,James Brennan,FC Metropolis,DEF,2022-23,31,Argentina,32,1984,2,6,6,5,94.9,10,95,3,3,6.5,Synthetic — not real-world data
+15,James Brennan,FC Metropolis,DEF,2023-24,29,Uruguay,31,2356,5,7,10,7,87.8,6,108,10,3,5.9,Synthetic — not real-world data
+16,Sven Okafor,FC Metropolis,MID,2021-22,22,Brazil,14,910,10,7,13,12,63.0,29,31,0,0,6.4,Synthetic — not real-world data
+16,Sven Okafor,FC Metropolis,MID,2022-23,18,Senegal,20,1800,4,14,14,6,57.1,59,29,4,2,6.3,Synthetic — not real-world data
+16,Sven Okafor,FC Metropolis,MID,2023-24,33,Brazil,17,1037,4,2,8,4,85.4,84,34,7,1,5.6,Synthetic — not real-world data
+17,Pierre Lindqvist,FC Metropolis,DEF,2021-22,38,Italy,37,2627,1,5,1,1,84.2,13,63,2,2,6.4,Synthetic — not real-world data
+17,Pierre Lindqvist,FC Metropolis,DEF,2022-23,20,Senegal,20,1360,4,5,15,6,61.6,9,112,10,1,5.9,Synthetic — not real-world data
+17,Pierre Lindqvist,FC Metropolis,DEF,2023-24,31,England,19,1596,1,7,4,3,83.6,36,80,5,0,6.2,Synthetic — not real-world data
+18,Udo Conti,FC Metropolis,FWD,2021-22,24,Belgium,34,2584,4,7,5,5,57.7,70,10,5,2,6.1,Synthetic — not real-world data
+18,Udo Conti,FC Metropolis,FWD,2022-23,21,England,29,2146,18,1,69,47,90.8,55,33,5,0,6.0,Synthetic — not real-world data
+18,Udo Conti,FC Metropolis,FWD,2023-24,31,Italy,13,1053,5,10,9,7,85.2,57,17,3,0,5.5,Synthetic — not real-world data
+19,Victor Vargas,FC Metropolis,FWD,2021-22,36,Croatia,14,1232,18,4,29,19,55.5,55,40,9,2,6.5,Synthetic — not real-world data
+19,Victor Vargas,FC Metropolis,FWD,2022-23,34,England,19,1273,9,6,16,15,73.5,65,16,9,0,5.5,Synthetic — not real-world data
+19,Victor Vargas,FC Metropolis,FWD,2023-24,25,Denmark,24,1608,31,11,106,98,86.6,56,12,9,0,7.3,Synthetic — not real-world data
+20,Leon Rodríguez,FC Metropolis,MID,2021-22,17,Denmark,38,2774,8,10,29,18,73.0,55,40,9,1,5.7,Synthetic — not real-world data
+20,Leon Rodríguez,FC Metropolis,MID,2022-23,36,Croatia,17,1258,5,16,13,9,68.4,61,76,4,1,6.1,Synthetic — not real-world data
+20,Leon Rodríguez,FC Metropolis,MID,2023-24,23,Poland,15,915,7,3,8,7,73.1,52,78,10,2,5.5,Synthetic — not real-world data
+21,Kevin Çelik,United City,DEF,2021-22,33,Poland,15,1200,0,0,0,0,78.2,26,55,1,0,5.5,Synthetic — not real-world data
+21,Kevin Çelik,United City,DEF,2022-23,35,Mexico,18,1368,3,5,8,6,76.4,11,30,6,2,5.4,Synthetic — not real-world data
+21,Kevin Çelik,United City,DEF,2023-24,33,Colombia,22,1936,5,7,12,7,57.6,18,76,1,1,6.0,Synthetic — not real-world data
+22,Omar Novák,United City,DEF,2021-22,18,England,15,1170,6,3,6,6,68.4,7,61,9,1,6.5,Synthetic — not real-world data
+22,Omar Novák,United City,DEF,2022-23,24,Japan,32,2624,3,7,4,3,81.4,5,86,6,2,5.5,Synthetic — not real-world data
+22,Omar Novák,United City,DEF,2023-24,20,Poland,14,868,2,0,5,4,83.8,39,117,7,1,6.1,Synthetic — not real-world data
+23,Henrik Kovalenko,United City,GK,2021-22,37,Denmark,14,1134,0,1,0,0,68.0,1,6,9,2,5.9,Synthetic — not real-world data
+23,Henrik Kovalenko,United City,GK,2022-23,19,Uruguay,25,2200,2,0,5,3,90.7,4,3,10,1,6.1,Synthetic — not real-world data
+23,Henrik Kovalenko,United City,GK,2023-24,33,Belgium,29,1856,0,1,1,1,69.5,4,2,3,1,6.0,Synthetic — not real-world data
+24,Ibrahim Asante,United City,MID,2021-22,23,Netherlands,33,2838,14,8,45,30,74.4,90,33,8,3,6.7,Synthetic — not real-world data
+24,Ibrahim Asante,United City,MID,2022-23,20,Netherlands,31,2511,11,15,14,12,76.0,46,89,1,1,5.9,Synthetic — not real-world data
+24,Ibrahim Asante,United City,MID,2023-24,24,Spain,15,915,1,6,1,1,74.9,85,46,8,2,6.4,Synthetic — not real-world data
+25,Felipe Alves,United City,DEF,2021-22,30,Spain,21,1512,0,4,0,0,77.9,21,55,4,3,6.1,Synthetic — not real-world data
+25,Felipe Alves,United City,DEF,2022-23,20,Mexico,37,2997,2,0,4,2,79.1,30,58,4,2,5.2,Synthetic — not real-world data
+25,Felipe Alves,United City,DEF,2023-24,31,Poland,36,2376,2,5,3,2,81.5,26,98,7,0,5.4,Synthetic — not real-world data
+26,Luca Bauer,United City,MID,2021-22,24,Mexico,28,1736,4,12,4,4,74.9,82,45,1,0,5.9,Synthetic — not real-world data
+26,Luca Bauer,United City,MID,2022-23,28,Denmark,10,840,13,12,52,37,64.9,12,63,2,1,5.7,Synthetic — not real-world data
+26,Luca Bauer,United City,MID,2023-24,37,Mexico,14,994,11,12,27,20,82.6,56,31,7,2,6.8,Synthetic — not real-world data
+27,Stefan Herrera,United City,DEF,2021-22,31,Belgium,32,2048,5,7,10,5,91.1,16,44,10,1,5.3,Synthetic — not real-world data
+27,Stefan Herrera,United City,DEF,2022-23,32,Italy,25,1650,0,6,1,0,73.9,11,43,4,2,5.4,Synthetic — not real-world data
+27,Stefan Herrera,United City,DEF,2023-24,29,Spain,27,2322,6,4,23,12,73.2,21,43,7,2,6.0,Synthetic — not real-world data
+28,Bashir Blanc,United City,FWD,2021-22,38,Senegal,12,768,14,8,39,36,71.2,58,19,7,0,6.4,Synthetic — not real-world data
+28,Bashir Blanc,United City,FWD,2022-23,34,France,27,1620,19,10,62,20,56.0,61,38,10,2,6.2,Synthetic — not real-world data
+28,Bashir Blanc,United City,FWD,2023-24,26,Portugal,36,2376,17,4,45,33,71.1,76,20,7,3,7.1,Synthetic — not real-world data
+29,Hugo De Bruyne,United City,MID,2021-22,21,South Korea,29,1856,1,15,1,1,59.4,23,49,1,1,6.5,Synthetic — not real-world data
+29,Hugo De Bruyne,United City,MID,2022-23,21,Croatia,10,800,14,16,22,14,70.7,77,31,10,1,7.2,Synthetic — not real-world data
+29,Hugo De Bruyne,United City,MID,2023-24,24,Poland,37,2405,7,9,20,14,73.7,86,44,6,3,5.4,Synthetic — not real-world data
+30,Yusuf Mbappé-Jr,United City,MID,2021-22,22,Brazil,38,3420,6,6,24,18,59.8,66,60,0,0,6.7,Synthetic — not real-world data
+30,Yusuf Mbappé-Jr,United City,MID,2022-23,19,France,14,1134,7,2,15,9,78.9,70,54,1,1,6.2,Synthetic — not real-world data
+30,Yusuf Mbappé-Jr,United City,MID,2023-24,25,France,15,1080,8,14,22,16,78.7,23,30,8,3,6.0,Synthetic — not real-world data
+31,Duarte Santos,United City,MID,2021-22,22,Italy,34,2074,12,11,20,19,92.3,20,78,1,1,6.0,Synthetic — not real-world data
+31,Duarte Santos,United City,MID,2022-23,24,Senegal,36,2304,10,3,15,14,63.8,86,47,4,0,6.6,Synthetic — not real-world data
+31,Duarte Santos,United City,MID,2023-24,24,England,38,2964,10,4,33,17,82.1,86,52,5,3,6.5,Synthetic — not real-world data
+32,Andre Szymański,United City,DEF,2021-22,21,Croatia,36,3096,0,4,0,0,64.5,40,92,10,1,5.2,Synthetic — not real-world data
+32,Andre Szymański,United City,DEF,2022-23,34,Germany,22,1870,0,2,0,0,88.0,14,61,10,0,6.0,Synthetic — not real-world data
+32,Andre Szymański,United City,DEF,2023-24,24,Spain,11,803,4,4,15,10,62.7,17,75,10,0,5.9,Synthetic — not real-world data
+33,Kylian Nakamura,United City,MID,2021-22,36,Germany,37,3071,13,4,18,15,85.4,83,82,4,0,6.6,Synthetic — not real-world data
+33,Kylian Nakamura,United City,MID,2022-23,34,Nigeria,27,1701,11,2,22,16,83.3,74,41,9,3,5.3,Synthetic — not real-world data
+33,Kylian Nakamura,United City,MID,2023-24,35,Croatia,24,2112,12,5,46,23,56.0,20,52,5,2,6.2,Synthetic — not real-world data
+34,Marco Brooks,United City,MID,2021-22,27,Poland,35,2870,10,3,23,11,94.9,90,32,8,2,6.1,Synthetic — not real-world data
+34,Marco Brooks,United City,MID,2022-23,36,Argentina,11,814,14,5,35,24,65.9,90,75,4,2,6.1,Synthetic — not real-world data
+34,Marco Brooks,United City,MID,2023-24,33,Uruguay,28,2352,5,4,15,5,67.8,47,34,1,0,5.4,Synthetic — not real-world data
+35,Noel Ricci,United City,DEF,2021-22,34,Poland,27,1998,3,7,10,6,62.4,21,82,7,2,5.8,Synthetic — not real-world data
+35,Noel Ricci,United City,DEF,2022-23,33,Uruguay,16,992,4,7,15,8,91.5,7,49,8,1,5.3,Synthetic — not real-world data
+35,Noel Ricci,United City,DEF,2023-24,29,Mexico,29,1827,0,5,1,0,61.4,26,31,7,3,5.4,Synthetic — not real-world data
+36,Carlos Diallo,United City,FWD,2021-22,25,Italy,17,1360,21,2,66,51,83.9,30,29,0,0,7.1,Synthetic — not real-world data
+36,Carlos Diallo,United City,FWD,2022-23,17,Belgium,20,1620,22,8,62,38,59.1,65,36,5,1,6.2,Synthetic — not real-world data
+36,Carlos Diallo,United City,FWD,2023-24,38,Portugal,17,1309,31,1,32,31,58.5,96,34,0,0,7.3,Synthetic — not real-world data
+37,Renato Dias,United City,MID,2021-22,22,Netherlands,11,715,7,11,20,16,87.0,53,68,7,2,5.6,Synthetic — not real-world data
+37,Renato Dias,United City,MID,2022-23,23,Croatia,15,1020,7,16,15,8,92.4,81,69,3,1,6.6,Synthetic — not real-world data
+37,Renato Dias,United City,MID,2023-24,38,Uruguay,29,2175,4,7,13,9,73.1,12,60,9,1,5.3,Synthetic — not real-world data
+38,Jordi Johnson,United City,MID,2021-22,34,Argentina,32,2272,13,10,31,26,68.5,17,72,6,3,6.4,Synthetic — not real-world data
+38,Jordi Johnson,United City,MID,2022-23,23,Uruguay,27,2106,6,6,14,8,58.3,44,80,5,2,5.5,Synthetic — not real-world data
+38,Jordi Johnson,United City,MID,2023-24,25,Germany,26,2314,5,16,14,12,72.0,13,39,7,1,6.9,Synthetic — not real-world data
+39,Tomas Puig,United City,FWD,2021-22,37,Japan,35,2800,5,4,6,5,91.0,25,16,2,0,5.8,Synthetic — not real-world data
+39,Tomas Puig,United City,FWD,2022-23,29,Netherlands,10,620,29,8,115,70,64.5,97,6,6,0,7.6,Synthetic — not real-world data
+39,Tomas Puig,United City,FWD,2023-24,18,France,31,2697,32,8,120,115,78.7,89,21,10,0,7.8,Synthetic — not real-world data
+40,Oscar Hassan,United City,MID,2021-22,30,South Korea,14,896,1,9,4,4,70.9,32,66,10,1,5.2,Synthetic — not real-world data
+40,Oscar Hassan,United City,MID,2022-23,38,Poland,19,1672,10,13,39,18,72.2,29,27,10,3,6.8,Synthetic — not real-world data
+40,Oscar Hassan,United City,MID,2023-24,36,Colombia,37,3108,11,6,22,15,86.3,53,75,5,3,6.2,Synthetic — not real-world data
+41,Paulo Novak,Dynamo Athletic,DEF,2021-22,37,Brazil,23,1403,0,6,0,0,92.5,33,30,6,2,5.7,Synthetic — not real-world data
+41,Paulo Novak,Dynamo Athletic,DEF,2022-23,23,Japan,10,760,2,5,5,3,70.9,28,72,1,0,6.0,Synthetic — not real-world data
+41,Paulo Novak,Dynamo Athletic,DEF,2023-24,34,England,20,1540,6,3,11,9,60.0,20,79,9,3,6.1,Synthetic — not real-world data
+42,Javier Al-Farsi,Dynamo Athletic,DEF,2021-22,26,Colombia,32,2144,4,7,9,8,93.5,38,94,6,2,6.7,Synthetic — not real-world data
+42,Javier Al-Farsi,Dynamo Athletic,DEF,2022-23,32,Nigeria,27,2052,1,7,3,1,56.2,12,118,3,0,6.0,Synthetic — not real-world data
+42,Javier Al-Farsi,Dynamo Athletic,DEF,2023-24,32,Senegal,30,2250,4,0,13,5,95.0,10,92,8,0,5.5,Synthetic — not real-world data
+43,Luis Martínez,Dynamo Athletic,MID,2021-22,25,Denmark,18,1440,13,16,23,16,81.0,13,38,5,1,7.1,Synthetic — not real-world data
+43,Luis Martínez,Dynamo Athletic,MID,2022-23,35,England,22,1540,1,9,2,2,81.0,24,84,9,2,6.0,Synthetic — not real-world data
+43,Luis Martínez,Dynamo Athletic,MID,2023-24,24,South Korea,26,1976,3,13,8,4,78.5,81,85,8,2,6.2,Synthetic — not real-world data
+44,Xavier Pereira,Dynamo Athletic,DEF,2021-22,31,Croatia,11,715,3,4,12,11,70.2,38,77,4,2,5.8,Synthetic — not real-world data
+44,Xavier Pereira,Dynamo Athletic,DEF,2022-23,37,Japan,25,2050,5,5,6,6,93.2,25,52,10,2,6.5,Synthetic — not real-world data
+44,Xavier Pereira,Dynamo Athletic,DEF,2023-24,32,Poland,34,2142,2,2,8,5,92.4,26,48,1,1,5.6,Synthetic — not real-world data
+45,Emre Schneider,Dynamo Athletic,MID,2021-22,20,Croatia,23,1978,13,16,40,15,78.2,45,49,1,1,6.3,Synthetic — not real-world data
+45,Emre Schneider,Dynamo Athletic,MID,2022-23,20,Portugal,16,1440,12,11,24,18,66.8,51,80,9,3,7.2,Synthetic — not real-world data
+45,Emre Schneider,Dynamo Athletic,MID,2023-24,26,Italy,31,1860,12,9,24,18,80.5,30,28,9,0,6.6,Synthetic — not real-world data
+46,Diego Dembélé,Dynamo Athletic,FWD,2021-22,34,Denmark,33,2475,20,10,46,24,67.1,43,23,3,3,7.0,Synthetic — not real-world data
+46,Diego Dembélé,Dynamo Athletic,FWD,2022-23,33,South Korea,13,897,4,7,5,4,61.7,118,38,0,0,5.5,Synthetic — not real-world data
+46,Diego Dembélé,Dynamo Athletic,FWD,2023-24,19,Portugal,14,1036,6,12,12,8,64.3,97,17,8,1,5.6,Synthetic — not real-world data
+47,Quincy Wagner,Dynamo Athletic,DEF,2021-22,23,Senegal,30,2310,2,1,7,6,83.7,15,53,2,1,5.4,Synthetic — not real-world data
+47,Quincy Wagner,Dynamo Athletic,DEF,2022-23,33,Spain,23,1449,4,0,7,6,71.0,37,99,8,2,5.0,Synthetic — not real-world data
+47,Quincy Wagner,Dynamo Athletic,DEF,2023-24,18,Argentina,37,2368,3,2,7,4,82.2,7,115,5,1,6.5,Synthetic — not real-world data
+48,Rafael Müller,Dynamo Athletic,DEF,2021-22,32,Uruguay,26,1612,1,6,2,2,57.4,40,98,8,2,5.8,Synthetic — not real-world data
+48,Rafael Müller,Dynamo Athletic,DEF,2022-23,17,Poland,26,1950,3,7,6,5,92.1,27,34,3,3,6.3,Synthetic — not real-world data
+48,Rafael Müller,Dynamo Athletic,DEF,2023-24,20,England,15,1215,1,7,3,1,79.3,16,67,3,1,5.1,Synthetic — not real-world data
+49,Caden Hansen,Dynamo Athletic,DEF,2021-22,20,Colombia,32,2464,4,1,12,8,68.9,13,94,10,2,5.5,Synthetic — not real-world data
+49,Caden Hansen,Dynamo Athletic,DEF,2022-23,19,Belgium,32,2080,2,5,4,4,94.7,16,78,9,1,6.3,Synthetic — not real-world data
+49,Caden Hansen,Dynamo Athletic,DEF,2023-24,19,Colombia,23,1495,2,7,8,5,87.7,19,50,2,1,5.3,Synthetic — not real-world data
+50,Mikel Ferreira,Dynamo Athletic,FWD,2021-22,30,South Korea,23,1817,21,10,45,22,60.3,73,37,3,2,6.7,Synthetic — not real-world data
+50,Mikel Ferreira,Dynamo Athletic,FWD,2022-23,18,Germany,31,2263,32,4,34,34,70.9,44,17,4,1,6.2,Synthetic — not real-world data
+50,Mikel Ferreira,Dynamo Athletic,FWD,2023-24,22,Croatia,34,2516,7,12,18,18,67.5,97,24,1,0,5.6,Synthetic — not real-world data
+51,Ivan Fonseca,Dynamo Athletic,DEF,2021-22,31,Netherlands,11,957,6,2,24,10,86.2,14,118,1,1,6.6,Synthetic — not real-world data
+51,Ivan Fonseca,Dynamo Athletic,DEF,2022-23,23,Italy,32,2496,0,2,0,0,59.9,11,109,0,0,5.6,Synthetic — not real-world data
+51,Ivan Fonseca,Dynamo Athletic,DEF,2023-24,23,Brazil,26,1664,6,3,9,9,88.9,39,36,10,3,5.8,Synthetic — not real-world data
+52,Neylan Zubizarreta,Dynamo Athletic,MID,2021-22,23,Brazil,38,3078,5,15,11,6,60.4,30,40,9,2,5.7,Synthetic — not real-world data
+52,Neylan Zubizarreta,Dynamo Athletic,MID,2022-23,27,Poland,10,720,5,11,6,5,94.0,54,51,3,0,5.5,Synthetic — not real-world data
+52,Neylan Zubizarreta,Dynamo Athletic,MID,2023-24,29,Mexico,32,2560,10,15,13,11,68.0,61,48,5,1,7.0,Synthetic — not real-world data
+53,Eduardo García,Dynamo Athletic,GK,2021-22,24,Croatia,18,1368,0,0,0,0,87.4,4,0,9,1,5.0,Synthetic — not real-world data
+53,Eduardo García,Dynamo Athletic,GK,2022-23,28,England,32,1952,2,1,2,2,79.6,3,6,7,0,5.1,Synthetic — not real-world data
+53,Eduardo García,Dynamo Athletic,GK,2023-24,21,Poland,32,2048,0,0,0,0,83.7,4,2,7,2,5.0,Synthetic — not real-world data
+54,Theo Okonkwo,Dynamo Athletic,DEF,2021-22,27,Brazil,30,2010,1,6,2,2,69.0,19,112,6,2,5.3,Synthetic — not real-world data
+54,Theo Okonkwo,Dynamo Athletic,DEF,2022-23,25,Spain,14,1246,5,7,12,12,72.0,36,110,7,3,5.5,Synthetic — not real-world data
+54,Theo Okonkwo,Dynamo Athletic,DEF,2023-24,28,Italy,24,1848,2,0,5,3,65.4,29,91,1,1,6.1,Synthetic — not real-world data
+55,Kenji Sørensen,Dynamo Athletic,DEF,2021-22,24,Nigeria,11,891,4,4,15,5,60.1,19,46,7,1,5.4,Synthetic — not real-world data
+55,Kenji Sørensen,Dynamo Athletic,DEF,2022-23,37,France,37,3145,0,1,1,1,64.6,25,73,2,1,5.0,Synthetic — not real-world data
+55,Kenji Sørensen,Dynamo Athletic,DEF,2023-24,24,Nigeria,35,3115,6,6,22,17,91.8,22,50,4,1,6.5,Synthetic — not real-world data
+56,Wojtek Traoré,Dynamo Athletic,DEF,2021-22,31,Poland,16,1312,3,7,8,8,94.4,26,58,1,1,5.3,Synthetic — not real-world data
+56,Wojtek Traoré,Dynamo Athletic,DEF,2022-23,23,Uruguay,36,2772,6,6,24,17,84.3,37,85,2,2,5.4,Synthetic — not real-world data
+56,Wojtek Traoré,Dynamo Athletic,DEF,2023-24,24,France,24,2016,4,6,11,5,77.3,12,30,4,2,6.7,Synthetic — not real-world data
+57,Artem Ruiz,Dynamo Athletic,MID,2021-22,36,Germany,19,1159,11,10,20,15,84.3,36,85,8,3,6.8,Synthetic — not real-world data
+57,Artem Ruiz,Dynamo Athletic,MID,2022-23,32,Denmark,31,2139,10,11,31,21,84.8,23,53,4,0,6.6,Synthetic — not real-world data
+57,Artem Ruiz,Dynamo Athletic,MID,2023-24,21,Argentina,32,2080,8,4,12,9,69.7,13,39,9,3,5.5,Synthetic — not real-world data
+58,Finn Kovač,Dynamo Athletic,MID,2021-22,23,Germany,30,2430,8,8,28,17,79.8,13,79,8,0,5.5,Synthetic — not real-world data
+58,Finn Kovač,Dynamo Athletic,MID,2022-23,35,Mexico,38,2774,3,9,7,4,77.5,13,43,1,1,6.5,Synthetic — not real-world data
+58,Finn Kovač,Dynamo Athletic,MID,2023-24,33,England,23,1794,6,9,18,17,86.4,40,83,2,0,5.5,Synthetic — not real-world data
+59,Giorgio Costa,Dynamo Athletic,MID,2021-22,20,Poland,27,2430,4,2,14,14,85.7,66,64,0,0,5.6,Synthetic — not real-world data
+59,Giorgio Costa,Dynamo Athletic,MID,2022-23,26,Colombia,25,1850,11,16,16,16,84.9,18,35,4,0,6.7,Synthetic — not real-world data
+59,Giorgio Costa,Dynamo Athletic,MID,2023-24,30,Denmark,12,864,11,2,40,40,78.5,79,70,4,2,5.6,Synthetic — not real-world data
+60,Christoph Silva,Dynamo Athletic,DEF,2021-22,23,Colombia,14,1232,4,3,4,4,72.4,9,99,9,3,5.1,Synthetic — not real-world data
+60,Christoph Silva,Dynamo Athletic,DEF,2022-23,28,Belgium,12,720,0,3,1,0,61.4,35,113,7,0,6.3,Synthetic — not real-world data
+60,Christoph Silva,Dynamo Athletic,DEF,2023-24,28,Netherlands,31,2697,6,2,19,13,94.0,20,83,9,0,6.3,Synthetic — not real-world data
+61,Mateo Flores,Sporting Lions,DEF,2021-22,22,Japan,22,1386,2,3,3,3,77.5,25,97,1,0,6.1,Synthetic — not real-world data
+61,Mateo Flores,Sporting Lions,DEF,2022-23,34,Brazil,27,2241,2,3,8,8,70.7,30,43,8,0,6.5,Synthetic — not real-world data
+61,Mateo Flores,Sporting Lions,DEF,2023-24,34,Germany,12,984,1,4,4,1,73.6,29,114,8,0,5.1,Synthetic — not real-world data
+62,Ali Gomes,Sporting Lions,DEF,2021-22,38,Mexico,19,1596,6,5,6,6,75.9,38,57,9,2,5.2,Synthetic — not real-world data
+62,Ali Gomes,Sporting Lions,DEF,2022-23,18,Belgium,26,1586,5,5,10,6,74.4,25,34,1,1,6.5,Synthetic — not real-world data
+62,Ali Gomes,Sporting Lions,DEF,2023-24,23,Poland,11,825,2,4,8,7,66.6,14,93,2,2,5.7,Synthetic — not real-world data
+63,Lorenzo Fernández,Sporting Lions,DEF,2021-22,25,Italy,35,3150,3,5,6,4,55.7,25,108,5,3,6.4,Synthetic — not real-world data
+63,Lorenzo Fernández,Sporting Lions,DEF,2022-23,19,Argentina,35,3045,1,0,3,2,57.6,7,101,0,0,5.4,Synthetic — not real-world data
+63,Lorenzo Fernández,Sporting Lions,DEF,2023-24,25,Germany,16,1264,6,0,23,16,86.0,15,41,9,3,5.4,Synthetic — not real-world data
+64,Thiago Menezes,Sporting Lions,MID,2021-22,29,France,14,1120,8,8,16,15,75.8,69,89,1,0,6.3,Synthetic — not real-world data
+64,Thiago Menezes,Sporting Lions,MID,2022-23,22,Nigeria,36,2772,11,9,43,38,63.1,17,51,10,0,6.2,Synthetic — not real-world data
+64,Thiago Menezes,Sporting Lions,MID,2023-24,21,France,31,2418,9,13,19,15,93.7,72,40,1,1,7.2,Synthetic — not real-world data
+65,James Brennan,Sporting Lions,MID,2021-22,22,Denmark,10,630,9,5,10,10,58.2,14,80,8,3,6.7,Synthetic — not real-world data
+65,James Brennan,Sporting Lions,MID,2022-23,17,France,37,2627,9,12,10,9,81.1,82,22,9,3,6.7,Synthetic — not real-world data
+65,James Brennan,Sporting Lions,MID,2023-24,27,Japan,29,1769,9,4,23,10,85.0,66,42,5,0,6.6,Synthetic — not real-world data
+66,Sven Okafor,Sporting Lions,GK,2021-22,17,Italy,36,2232,0,0,1,1,68.0,3,6,5,0,5.8,Synthetic — not real-world data
+66,Sven Okafor,Sporting Lions,GK,2022-23,30,Poland,32,2624,2,2,5,3,75.5,5,4,2,0,5.4,Synthetic — not real-world data
+66,Sven Okafor,Sporting Lions,GK,2023-24,18,Nigeria,23,1449,0,2,0,0,86.5,4,1,2,0,6.2,Synthetic — not real-world data
+67,Pierre Lindqvist,Sporting Lions,DEF,2021-22,24,Nigeria,15,1095,3,4,10,8,70.2,34,107,10,3,5.0,Synthetic — not real-world data
+67,Pierre Lindqvist,Sporting Lions,DEF,2022-23,29,Portugal,35,2275,6,5,21,14,66.7,7,71,2,0,6.5,Synthetic — not real-world data
+67,Pierre Lindqvist,Sporting Lions,DEF,2023-24,37,Germany,23,2070,0,2,1,0,76.3,23,76,3,1,5.1,Synthetic — not real-world data
+68,Udo Conti,Sporting Lions,DEF,2021-22,30,Netherlands,17,1292,5,0,20,5,73.8,29,43,10,0,5.4,Synthetic — not real-world data
+68,Udo Conti,Sporting Lions,DEF,2022-23,32,Mexico,13,1118,3,3,10,4,81.7,26,70,7,2,5.9,Synthetic — not real-world data
+68,Udo Conti,Sporting Lions,DEF,2023-24,17,Netherlands,25,2225,3,2,4,3,75.9,9,77,3,0,5.9,Synthetic — not real-world data
+69,Victor Vargas,Sporting Lions,MID,2021-22,38,Uruguay,38,2584,4,4,4,4,57.6,74,27,6,2,5.2,Synthetic — not real-world data
+69,Victor Vargas,Sporting Lions,MID,2022-23,35,Germany,23,1702,9,4,34,28,72.7,30,70,5,3,6.5,Synthetic — not real-world data
+69,Victor Vargas,Sporting Lions,MID,2023-24,25,England,32,2112,12,13,15,13,86.5,76,85,7,1,6.5,Synthetic — not real-world data
+70,Leon Rodríguez,Sporting Lions,MID,2021-22,17,Senegal,17,1394,6,7,23,22,56.6,15,46,7,2,5.7,Synthetic — not real-world data
+70,Leon Rodríguez,Sporting Lions,MID,2022-23,24,Croatia,26,1612,8,15,10,8,74.0,58,32,5,0,5.6,Synthetic — not real-world data
+70,Leon Rodríguez,Sporting Lions,MID,2023-24,25,Netherlands,29,2523,1,11,3,1,72.5,73,81,9,2,5.2,Synthetic — not real-world data
+71,Kevin Çelik,Sporting Lions,DEF,2021-22,29,Nigeria,33,2112,0,0,0,0,59.6,17,93,10,1,6.3,Synthetic — not real-world data
+71,Kevin Çelik,Sporting Lions,DEF,2022-23,23,Brazil,22,1320,3,2,10,10,81.8,16,90,0,0,6.2,Synthetic — not real-world data
+71,Kevin Çelik,Sporting Lions,DEF,2023-24,20,England,17,1428,2,5,8,7,65.3,27,78,3,1,5.4,Synthetic — not real-world data
+72,Omar Novák,Sporting Lions,FWD,2021-22,23,Spain,13,1001,8,3,22,19,77.0,116,16,9,2,5.7,Synthetic — not real-world data
+72,Omar Novák,Sporting Lions,FWD,2022-23,36,Argentina,38,2584,13,2,23,22,75.1,70,13,8,2,6.7,Synthetic — not real-world data
+72,Omar Novák,Sporting Lions,FWD,2023-24,29,Japan,36,2880,5,6,7,6,60.7,100,16,2,2,5.9,Synthetic — not real-world data
+73,Henrik Kovalenko,Sporting Lions,DEF,2021-22,37,Croatia,35,2240,4,5,4,4,63.6,29,52,7,0,5.2,Synthetic — not real-world data
+73,Henrik Kovalenko,Sporting Lions,DEF,2022-23,28,Japan,27,1701,2,4,8,2,67.3,34,89,1,1,6.3,Synthetic — not real-world data
+73,Henrik Kovalenko,Sporting Lions,DEF,2023-24,21,Portugal,18,1620,6,7,16,15,69.8,40,62,7,2,6.0,Synthetic — not real-world data
+74,Ibrahim Asante,Sporting Lions,FWD,2021-22,31,Croatia,13,832,27,1,91,73,61.2,48,14,1,1,5.8,Synthetic — not real-world data
+74,Ibrahim Asante,Sporting Lions,FWD,2022-23,33,Senegal,26,1976,9,5,16,10,88.7,75,16,5,0,5.4,Synthetic — not real-world data
+74,Ibrahim Asante,Sporting Lions,FWD,2023-24,26,Denmark,27,1728,27,8,85,29,93.6,23,30,10,1,6.2,Synthetic — not real-world data
+75,Felipe Alves,Sporting Lions,MID,2021-22,20,Colombia,27,1755,11,14,25,15,66.6,46,61,4,2,7.1,Synthetic — not real-world data
+75,Felipe Alves,Sporting Lions,MID,2022-23,33,Senegal,37,2516,1,14,1,1,79.3,26,41,3,0,5.5,Synthetic — not real-world data
+75,Felipe Alves,Sporting Lions,MID,2023-24,28,Uruguay,11,792,6,6,24,8,67.1,41,70,9,0,6.0,Synthetic — not real-world data
+76,Luca Bauer,Sporting Lions,GK,2021-22,33,France,20,1320,2,0,5,4,60.6,2,1,10,3,5.4,Synthetic — not real-world data
+76,Luca Bauer,Sporting Lions,GK,2022-23,38,Denmark,37,2849,1,0,4,2,73.5,4,7,4,0,5.9,Synthetic — not real-world data
+76,Luca Bauer,Sporting Lions,GK,2023-24,21,Mexico,36,2880,1,2,2,1,73.3,5,4,5,2,5.7,Synthetic — not real-world data
+77,Stefan Herrera,Sporting Lions,DEF,2021-22,20,Argentina,33,2607,0,5,1,1,93.8,23,55,3,3,5.7,Synthetic — not real-world data
+77,Stefan Herrera,Sporting Lions,DEF,2022-23,35,Japan,20,1200,5,7,11,11,79.2,21,80,4,1,5.9,Synthetic — not real-world data
+77,Stefan Herrera,Sporting Lions,DEF,2023-24,24,Denmark,24,1512,6,4,8,8,59.4,21,110,0,0,5.6,Synthetic — not real-world data
+78,Bashir Blanc,Sporting Lions,MID,2021-22,26,Belgium,15,930,11,6,23,23,92.1,89,41,5,2,6.8,Synthetic — not real-world data
+78,Bashir Blanc,Sporting Lions,MID,2022-23,33,Italy,30,2250,12,3,35,14,63.4,66,66,2,2,5.6,Synthetic — not real-world data
+78,Bashir Blanc,Sporting Lions,MID,2023-24,21,Netherlands,16,1424,7,4,7,7,68.7,46,20,4,0,6.4,Synthetic — not real-world data
+79,Hugo De Bruyne,Sporting Lions,MID,2021-22,19,Nigeria,10,630,3,3,10,9,74.5,55,23,5,2,5.5,Synthetic — not real-world data
+79,Hugo De Bruyne,Sporting Lions,MID,2022-23,32,Argentina,37,2664,13,3,31,18,67.0,49,36,6,1,6.6,Synthetic — not real-world data
+79,Hugo De Bruyne,Sporting Lions,MID,2023-24,38,Portugal,37,2257,2,11,6,5,89.5,76,27,6,1,5.5,Synthetic — not real-world data
+80,Yusuf Mbappé-Jr,Sporting Lions,MID,2021-22,38,Mexico,30,1980,1,2,1,1,63.8,22,40,2,0,5.5,Synthetic — not real-world data
+80,Yusuf Mbappé-Jr,Sporting Lions,MID,2022-23,30,Poland,32,2624,14,11,23,17,80.0,61,39,1,1,6.4,Synthetic — not real-world data
+80,Yusuf Mbappé-Jr,Sporting Lions,MID,2023-24,34,Spain,30,2490,6,15,9,6,91.7,17,31,6,2,6.0,Synthetic — not real-world data
+81,Duarte Santos,River Valley FC,MID,2021-22,34,Italy,20,1360,12,2,26,20,55.0,35,37,5,1,6.7,Synthetic — not real-world data
+81,Duarte Santos,River Valley FC,MID,2022-23,20,Colombia,18,1170,5,13,13,13,69.4,28,28,10,1,5.9,Synthetic — not real-world data
+81,Duarte Santos,River Valley FC,MID,2023-24,26,Japan,24,1872,13,4,18,16,82.0,26,77,6,1,6.3,Synthetic — not real-world data
+82,Andre Szymański,River Valley FC,MID,2021-22,25,Poland,32,2560,5,12,17,9,93.6,20,36,3,2,6.9,Synthetic — not real-world data
+82,Andre Szymański,River Valley FC,MID,2022-23,30,France,28,2184,12,6,28,16,74.9,37,60,2,2,5.6,Synthetic — not real-world data
+82,Andre Szymański,River Valley FC,MID,2023-24,38,England,21,1428,12,8,24,13,77.1,40,21,8,0,6.9,Synthetic — not real-world data
+83,Kylian Nakamura,River Valley FC,MID,2021-22,22,Uruguay,13,936,7,14,19,8,70.8,17,26,3,1,6.7,Synthetic — not real-world data
+83,Kylian Nakamura,River Valley FC,MID,2022-23,26,Uruguay,21,1680,12,9,12,12,90.6,22,76,0,0,5.7,Synthetic — not real-world data
+83,Kylian Nakamura,River Valley FC,MID,2023-24,31,Argentina,24,1920,10,15,22,14,91.4,11,33,9,2,6.5,Synthetic — not real-world data
+84,Marco Brooks,River Valley FC,GK,2021-22,32,Japan,26,1846,1,0,3,1,93.5,3,9,5,0,5.2,Synthetic — not real-world data
+84,Marco Brooks,River Valley FC,GK,2022-23,37,England,26,1742,1,2,2,1,58.1,5,8,1,0,5.2,Synthetic — not real-world data
+84,Marco Brooks,River Valley FC,GK,2023-24,31,Denmark,32,2720,2,0,7,5,55.1,2,4,3,0,6.3,Synthetic — not real-world data
+85,Noel Ricci,River Valley FC,DEF,2021-22,25,Spain,18,1260,0,6,0,0,66.6,26,88,3,3,5.1,Synthetic — not real-world data
+85,Noel Ricci,River Valley FC,DEF,2022-23,36,Colombia,11,957,4,6,15,10,81.9,8,119,7,0,5.5,Synthetic — not real-world data
+85,Noel Ricci,River Valley FC,DEF,2023-24,29,Denmark,20,1480,3,5,11,3,64.0,11,86,9,0,6.3,Synthetic — not real-world data
+86,Carlos Diallo,River Valley FC,DEF,2021-22,36,Argentina,20,1440,4,7,11,7,70.5,32,104,10,0,5.7,Synthetic — not real-world data
+86,Carlos Diallo,River Valley FC,DEF,2022-23,38,England,33,2673,3,0,11,4,82.6,9,113,3,0,5.5,Synthetic — not real-world data
+86,Carlos Diallo,River Valley FC,DEF,2023-24,34,Nigeria,27,1755,2,1,8,6,93.0,9,35,5,1,6.1,Synthetic — not real-world data
+87,Renato Dias,River Valley FC,FWD,2021-22,29,Colombia,19,1387,16,3,45,21,72.8,63,37,0,0,7.0,Synthetic — not real-world data
+87,Renato Dias,River Valley FC,FWD,2022-23,34,Denmark,20,1800,31,12,100,71,62.9,118,30,8,3,6.8,Synthetic — not real-world data
+87,Renato Dias,River Valley FC,FWD,2023-24,37,South Korea,32,2624,9,6,26,14,62.6,48,38,0,0,6.8,Synthetic — not real-world data
+88,Jordi Johnson,River Valley FC,MID,2021-22,34,Uruguay,11,671,7,9,19,16,74.1,74,62,6,0,5.6,Synthetic — not real-world data
+88,Jordi Johnson,River Valley FC,MID,2022-23,24,Spain,18,1152,10,5,14,13,92.0,51,62,4,3,6.6,Synthetic — not real-world data
+88,Jordi Johnson,River Valley FC,MID,2023-24,18,Denmark,32,2144,11,7,37,35,71.1,22,64,9,3,5.9,Synthetic — not real-world data
+89,Tomas Puig,River Valley FC,FWD,2021-22,30,Mexico,10,840,32,7,98,51,85.2,54,39,0,0,7.0,Synthetic — not real-world data
+89,Tomas Puig,River Valley FC,FWD,2022-23,36,Belgium,27,1944,23,4,75,49,71.6,84,5,9,1,7.2,Synthetic — not real-world data
+89,Tomas Puig,River Valley FC,FWD,2023-24,20,Brazil,36,2520,12,9,16,13,93.3,41,38,7,0,5.9,Synthetic — not real-world data
+90,Oscar Hassan,River Valley FC,DEF,2021-22,21,Nigeria,20,1660,2,4,4,3,88.6,11,76,6,2,6.3,Synthetic — not real-world data
+90,Oscar Hassan,River Valley FC,DEF,2022-23,23,Nigeria,13,1066,1,3,3,2,63.2,33,37,8,3,5.4,Synthetic — not real-world data
+90,Oscar Hassan,River Valley FC,DEF,2023-24,20,Spain,37,2701,0,2,1,1,92.6,5,96,7,2,6.1,Synthetic — not real-world data
+91,Paulo Novak,River Valley FC,FWD,2021-22,29,Brazil,38,3154,27,10,30,29,75.6,68,27,4,3,6.6,Synthetic — not real-world data
+91,Paulo Novak,River Valley FC,FWD,2022-23,36,France,30,2670,12,9,17,16,83.9,59,11,6,1,5.6,Synthetic — not real-world data
+91,Paulo Novak,River Valley FC,FWD,2023-24,21,South Korea,28,2268,18,4,45,29,64.0,55,9,6,1,6.1,Synthetic — not real-world data
+92,Javier Al-Farsi,River Valley FC,FWD,2021-22,37,Italy,36,2808,17,9,64,63,87.3,58,20,7,1,6.4,Synthetic — not real-world data
+92,Javier Al-Farsi,River Valley FC,FWD,2022-23,26,Mexico,26,1950,30,7,60,39,83.4,78,38,8,0,7.7,Synthetic — not real-world data
+92,Javier Al-Farsi,River Valley FC,FWD,2023-24,18,Italy,13,975,23,9,43,27,59.1,84,29,2,0,7.5,Synthetic — not real-world data
+93,Luis Martínez,River Valley FC,DEF,2021-22,29,Argentina,24,1584,2,5,2,2,59.9,21,63,10,0,5.3,Synthetic — not real-world data
+93,Luis Martínez,River Valley FC,DEF,2022-23,19,Japan,15,1185,3,4,5,3,83.0,16,76,6,3,5.8,Synthetic — not real-world data
+93,Luis Martínez,River Valley FC,DEF,2023-24,20,Denmark,13,819,1,0,3,3,88.6,18,87,0,0,6.3,Synthetic — not real-world data
+94,Xavier Pereira,River Valley FC,MID,2021-22,19,Denmark,15,1260,1,2,4,3,72.2,78,46,5,3,5.1,Synthetic — not real-world data
+94,Xavier Pereira,River Valley FC,MID,2022-23,35,Brazil,21,1575,11,12,20,19,61.3,77,63,6,1,7.0,Synthetic — not real-world data
+94,Xavier Pereira,River Valley FC,MID,2023-24,28,Mexico,17,1122,14,9,16,15,88.3,60,31,4,2,5.9,Synthetic — not real-world data
+95,Emre Schneider,River Valley FC,MID,2021-22,38,Brazil,15,900,5,10,16,9,57.7,68,52,1,1,5.8,Synthetic — not real-world data
+95,Emre Schneider,River Valley FC,MID,2022-23,38,Poland,36,2196,14,16,52,17,94.3,63,26,6,1,7.2,Synthetic — not real-world data
+95,Emre Schneider,River Valley FC,MID,2023-24,21,Netherlands,38,3154,2,16,3,2,94.2,71,48,9,0,5.6,Synthetic — not real-world data
+96,Diego Dembélé,River Valley FC,FWD,2021-22,32,Spain,14,1078,29,4,69,55,75.8,90,7,9,1,6.8,Synthetic — not real-world data
+96,Diego Dembélé,River Valley FC,FWD,2022-23,38,Poland,37,3071,13,6,34,23,78.8,110,33,5,3,5.9,Synthetic — not real-world data
+96,Diego Dembélé,River Valley FC,FWD,2023-24,25,England,21,1638,23,3,88,52,80.7,41,7,5,2,6.6,Synthetic — not real-world data
+97,Quincy Wagner,River Valley FC,DEF,2021-22,26,Japan,25,1625,0,2,1,0,78.9,33,97,0,0,5.0,Synthetic — not real-world data
+97,Quincy Wagner,River Valley FC,DEF,2022-23,33,Senegal,36,2916,2,7,6,4,85.9,40,59,8,0,5.7,Synthetic — not real-world data
+97,Quincy Wagner,River Valley FC,DEF,2023-24,32,Argentina,13,858,0,0,1,0,93.3,40,102,9,3,5.8,Synthetic — not real-world data
+98,Rafael Müller,River Valley FC,DEF,2021-22,35,Mexico,26,1794,1,2,2,2,58.7,25,54,3,0,5.6,Synthetic — not real-world data
+98,Rafael Müller,River Valley FC,DEF,2022-23,21,Croatia,20,1680,0,1,1,1,63.2,27,81,0,0,5.1,Synthetic — not real-world data
+98,Rafael Müller,River Valley FC,DEF,2023-24,26,Colombia,25,1525,2,4,3,2,63.6,37,104,1,1,6.5,Synthetic — not real-world data
+99,Caden Hansen,River Valley FC,MID,2021-22,25,Argentina,15,1350,3,5,10,8,70.9,74,27,2,1,5.6,Synthetic — not real-world data
+99,Caden Hansen,River Valley FC,MID,2022-23,27,Argentina,20,1680,7,2,7,7,90.8,18,75,10,0,5.7,Synthetic — not real-world data
+99,Caden Hansen,River Valley FC,MID,2023-24,29,Germany,35,2345,4,3,15,14,92.5,27,82,5,3,5.7,Synthetic — not real-world data
+100,Mikel Ferreira,River Valley FC,FWD,2021-22,34,England,31,2046,32,11,85,55,92.1,98,5,6,2,7.1,Synthetic — not real-world data
+100,Mikel Ferreira,River Valley FC,FWD,2022-23,17,Germany,15,975,24,5,44,41,90.3,66,24,2,2,7.2,Synthetic — not real-world data
+100,Mikel Ferreira,River Valley FC,FWD,2023-24,21,Germany,21,1827,30,8,52,50,84.7,71,28,8,0,6.7,Synthetic — not real-world data
+101,Ivan Fonseca,Northern Stars,DEF,2021-22,19,Portugal,23,1587,0,1,1,0,64.3,25,90,8,1,5.6,Synthetic — not real-world data
+101,Ivan Fonseca,Northern Stars,DEF,2022-23,38,Netherlands,31,2108,5,4,14,11,88.5,27,109,2,1,5.8,Synthetic — not real-world data
+101,Ivan Fonseca,Northern Stars,DEF,2023-24,37,Spain,38,2812,4,6,16,7,64.2,27,74,0,0,6.3,Synthetic — not real-world data
+102,Neylan Zubizarreta,Northern Stars,GK,2021-22,26,Japan,14,910,1,1,2,2,58.3,0,10,9,2,5.2,Synthetic — not real-world data
+102,Neylan Zubizarreta,Northern Stars,GK,2022-23,24,Croatia,37,2886,1,0,2,2,67.4,5,2,5,2,5.9,Synthetic — not real-world data
+102,Neylan Zubizarreta,Northern Stars,GK,2023-24,18,Denmark,38,2584,2,0,7,2,76.6,1,7,9,0,5.1,Synthetic — not real-world data
+103,Eduardo García,Northern Stars,FWD,2021-22,33,Portugal,22,1782,4,2,16,16,82.9,83,33,6,3,6.5,Synthetic — not real-world data
+103,Eduardo García,Northern Stars,FWD,2022-23,27,France,22,1408,29,1,95,35,85.9,72,5,0,0,6.9,Synthetic — not real-world data
+103,Eduardo García,Northern Stars,FWD,2023-24,38,South Korea,24,2112,24,11,55,49,65.1,44,32,8,3,7.3,Synthetic — not real-world data
+104,Theo Okonkwo,Northern Stars,DEF,2021-22,31,France,18,1404,3,2,8,3,76.3,33,112,2,1,5.5,Synthetic — not real-world data
+104,Theo Okonkwo,Northern Stars,DEF,2022-23,24,Germany,20,1600,5,5,13,12,55.6,6,37,5,1,5.7,Synthetic — not real-world data
+104,Theo Okonkwo,Northern Stars,DEF,2023-24,26,France,24,2088,3,0,3,3,58.0,6,106,5,2,5.2,Synthetic — not real-world data
+105,Kenji Sørensen,Northern Stars,MID,2021-22,27,Croatia,28,1736,6,15,13,8,83.3,13,79,3,2,6.6,Synthetic — not real-world data
+105,Kenji Sørensen,Northern Stars,MID,2022-23,21,South Korea,11,979,1,10,4,3,87.2,70,67,8,3,6.4,Synthetic — not real-world data
+105,Kenji Sørensen,Northern Stars,MID,2023-24,22,Mexico,22,1958,7,11,26,23,55.6,73,63,10,2,6.5,Synthetic — not real-world data
+106,Wojtek Traoré,Northern Stars,FWD,2021-22,38,South Korea,25,2050,6,5,9,7,78.2,105,16,9,0,6.3,Synthetic — not real-world data
+106,Wojtek Traoré,Northern Stars,FWD,2022-23,18,Colombia,17,1139,30,9,69,31,72.0,95,14,10,2,7.2,Synthetic — not real-world data
+106,Wojtek Traoré,Northern Stars,FWD,2023-24,17,Senegal,21,1638,29,7,46,45,65.9,57,7,5,2,7.2,Synthetic — not real-world data
+107,Artem Ruiz,Northern Stars,MID,2021-22,22,Poland,37,2960,10,15,22,20,78.8,31,72,3,3,6.9,Synthetic — not real-world data
+107,Artem Ruiz,Northern Stars,MID,2022-23,19,Japan,35,2240,4,13,4,4,72.3,10,56,5,1,6.0,Synthetic — not real-world data
+107,Artem Ruiz,Northern Stars,MID,2023-24,23,Italy,14,1218,8,15,25,23,67.9,65,78,7,3,6.8,Synthetic — not real-world data
+108,Finn Kovač,Northern Stars,MID,2021-22,26,France,22,1430,2,3,4,2,78.1,47,67,10,3,6.3,Synthetic — not real-world data
+108,Finn Kovač,Northern Stars,MID,2022-23,32,France,22,1892,3,16,3,3,93.4,84,78,4,2,6.1,Synthetic — not real-world data
+108,Finn Kovač,Northern Stars,MID,2023-24,37,Belgium,31,2015,14,9,45,17,56.6,88,77,2,2,6.6,Synthetic — not real-world data
+109,Giorgio Costa,Northern Stars,DEF,2021-22,30,Spain,28,2352,3,4,5,5,82.0,29,49,2,2,6.5,Synthetic — not real-world data
+109,Giorgio Costa,Northern Stars,DEF,2022-23,36,Argentina,32,2784,4,6,14,8,94.8,16,79,3,1,6.4,Synthetic — not real-world data
+109,Giorgio Costa,Northern Stars,DEF,2023-24,25,Netherlands,34,2482,2,7,4,2,82.0,22,116,10,0,6.1,Synthetic — not real-world data
+110,Christoph Silva,Northern Stars,MID,2021-22,34,Japan,31,2139,6,4,6,6,80.4,13,84,7,3,5.2,Synthetic — not real-world data
+110,Christoph Silva,Northern Stars,MID,2022-23,22,France,26,2288,14,15,33,31,86.2,68,62,7,1,7.0,Synthetic — not real-world data
+110,Christoph Silva,Northern Stars,MID,2023-24,24,Uruguay,37,3071,10,15,22,22,78.4,58,85,3,1,6.6,Synthetic — not real-world data
+111,Mateo Flores,Northern Stars,MID,2021-22,31,South Korea,17,1190,6,5,13,10,71.9,39,74,10,2,5.9,Synthetic — not real-world data
+111,Mateo Flores,Northern Stars,MID,2022-23,30,Poland,36,2880,7,9,15,9,63.0,46,76,7,2,6.7,Synthetic — not real-world data
+111,Mateo Flores,Northern Stars,MID,2023-24,34,Portugal,37,2442,5,8,16,5,81.8,51,48,2,1,5.8,Synthetic — not real-world data
+112,Ali Gomes,Northern Stars,DEF,2021-22,19,Brazil,21,1785,1,2,4,2,65.7,14,61,3,2,5.1,Synthetic — not real-world data
+112,Ali Gomes,Northern Stars,DEF,2022-23,20,Senegal,34,2278,3,7,9,5,68.1,12,85,9,2,5.7,Synthetic — not real-world data
+112,Ali Gomes,Northern Stars,DEF,2023-24,27,Nigeria,13,832,1,5,4,3,86.1,28,116,5,1,6.3,Synthetic — not real-world data
+113,Lorenzo Fernández,Northern Stars,DEF,2021-22,26,Belgium,14,910,1,7,4,2,67.5,27,46,0,0,5.8,Synthetic — not real-world data
+113,Lorenzo Fernández,Northern Stars,DEF,2022-23,31,Japan,30,2490,1,0,2,1,68.9,22,105,7,0,6.1,Synthetic — not real-world data
+113,Lorenzo Fernández,Northern Stars,DEF,2023-24,28,Uruguay,32,2112,4,0,12,11,69.9,31,114,1,0,6.0,Synthetic — not real-world data
+114,Thiago Menezes,Northern Stars,FWD,2021-22,24,Senegal,15,1170,31,7,78,48,59.9,58,8,10,0,7.0,Synthetic — not real-world data
+114,Thiago Menezes,Northern Stars,FWD,2022-23,24,Senegal,22,1672,20,5,25,22,84.4,79,30,5,3,7.2,Synthetic — not real-world data
+114,Thiago Menezes,Northern Stars,FWD,2023-24,22,Italy,36,2340,9,8,36,29,66.1,47,7,5,1,6.8,Synthetic — not real-world data
+115,James Brennan,Northern Stars,MID,2021-22,21,Poland,32,2144,14,10,19,19,65.1,19,22,10,3,6.5,Synthetic — not real-world data
+115,James Brennan,Northern Stars,MID,2022-23,36,Senegal,34,3060,9,16,29,28,65.0,31,23,9,1,5.8,Synthetic — not real-world data
+115,James Brennan,Northern Stars,MID,2023-24,29,Nigeria,26,2106,4,2,4,4,69.0,26,43,9,3,6.4,Synthetic — not real-world data
+116,Sven Okafor,Northern Stars,DEF,2021-22,33,Portugal,17,1139,2,1,8,4,78.6,32,118,6,1,6.0,Synthetic — not real-world data
+116,Sven Okafor,Northern Stars,DEF,2022-23,36,Japan,22,1694,4,5,5,4,82.0,34,50,6,0,5.9,Synthetic — not real-world data
+116,Sven Okafor,Northern Stars,DEF,2023-24,31,England,18,1422,1,3,3,1,57.0,34,62,8,3,6.3,Synthetic — not real-world data
+117,Pierre Lindqvist,Northern Stars,FWD,2021-22,28,England,21,1302,14,2,29,22,68.4,31,37,8,0,5.6,Synthetic — not real-world data
+117,Pierre Lindqvist,Northern Stars,FWD,2022-23,24,Argentina,20,1340,13,3,23,19,60.0,36,37,9,0,6.7,Synthetic — not real-world data
+117,Pierre Lindqvist,Northern Stars,FWD,2023-24,37,Denmark,31,2387,9,5,21,11,76.0,68,39,2,2,5.7,Synthetic — not real-world data
+118,Udo Conti,Northern Stars,FWD,2021-22,35,Poland,11,990,11,3,38,37,79.5,38,32,1,1,6.8,Synthetic — not real-world data
+118,Udo Conti,Northern Stars,FWD,2022-23,30,Denmark,13,1053,29,1,71,64,93.5,71,36,0,0,7.0,Synthetic — not real-world data
+118,Udo Conti,Northern Stars,FWD,2023-24,20,Argentina,35,3045,6,8,6,6,58.6,67,37,7,3,5.9,Synthetic — not real-world data
+119,Victor Vargas,Northern Stars,MID,2021-22,38,Belgium,21,1806,9,16,24,16,78.8,23,44,1,0,6.1,Synthetic — not real-world data
+119,Victor Vargas,Northern Stars,MID,2022-23,31,France,18,1530,4,9,13,6,91.2,14,86,9,2,5.3,Synthetic — not real-world data
+119,Victor Vargas,Northern Stars,MID,2023-24,32,England,21,1428,5,13,14,6,89.2,59,31,6,3,5.9,Synthetic — not real-world data
+120,Leon Rodríguez,Northern Stars,FWD,2021-22,36,Argentina,31,2604,5,3,14,9,72.2,68,26,4,1,5.8,Synthetic — not real-world data
+120,Leon Rodríguez,Northern Stars,FWD,2022-23,33,Croatia,38,2812,29,10,80,43,72.4,40,28,8,1,7.1,Synthetic — not real-world data
+120,Leon Rodríguez,Northern Stars,FWD,2023-24,19,Italy,25,1775,18,7,21,20,92.3,111,39,5,3,6.8,Synthetic — not real-world data
+121,Kevin Çelik,Capital Rovers,DEF,2021-22,21,Senegal,27,1863,0,3,0,0,58.3,15,90,4,1,5.7,Synthetic — not real-world data
+121,Kevin Çelik,Capital Rovers,DEF,2022-23,24,Netherlands,15,1320,4,0,14,5,84.6,34,40,6,1,6.1,Synthetic — not real-world data
+121,Kevin Çelik,Capital Rovers,DEF,2023-24,38,Italy,16,1440,1,4,4,3,60.8,35,81,8,3,5.7,Synthetic — not real-world data
+122,Omar Novák,Capital Rovers,DEF,2021-22,19,Senegal,14,1036,0,0,0,0,78.1,25,108,0,0,5.0,Synthetic — not real-world data
+122,Omar Novák,Capital Rovers,DEF,2022-23,32,Nigeria,25,1675,5,6,5,5,68.1,30,42,0,0,6.5,Synthetic — not real-world data
+122,Omar Novák,Capital Rovers,DEF,2023-24,19,Argentina,22,1430,2,5,7,6,78.1,31,42,0,0,5.4,Synthetic — not real-world data
+123,Henrik Kovalenko,Capital Rovers,MID,2021-22,34,Colombia,14,1134,10,2,32,11,56.3,14,39,5,1,6.2,Synthetic — not real-world data
+123,Henrik Kovalenko,Capital Rovers,MID,2022-23,28,France,13,988,9,15,22,21,64.0,53,34,2,2,7.2,Synthetic — not real-world data
+123,Henrik Kovalenko,Capital Rovers,MID,2023-24,33,Portugal,26,1612,3,5,6,5,71.1,57,63,7,3,6.0,Synthetic — not real-world data
+124,Ibrahim Asante,Capital Rovers,FWD,2021-22,32,Germany,20,1540,4,3,7,4,76.3,33,19,3,3,5.2,Synthetic — not real-world data
+124,Ibrahim Asante,Capital Rovers,FWD,2022-23,29,Spain,22,1870,31,2,61,33,64.3,43,19,10,2,7.6,Synthetic — not real-world data
+124,Ibrahim Asante,Capital Rovers,FWD,2023-24,23,Spain,17,1122,27,12,83,42,71.1,93,22,1,0,7.5,Synthetic — not real-world data
+125,Felipe Alves,Capital Rovers,FWD,2021-22,34,Japan,20,1780,16,7,20,17,64.5,23,33,6,1,6.0,Synthetic — not real-world data
+125,Felipe Alves,Capital Rovers,FWD,2022-23,20,Germany,17,1445,12,5,21,15,63.6,82,7,9,2,6.5,Synthetic — not real-world data
+125,Felipe Alves,Capital Rovers,FWD,2023-24,32,Croatia,26,1768,22,5,53,43,87.8,54,26,0,0,6.4,Synthetic — not real-world data
+126,Luca Bauer,Capital Rovers,MID,2021-22,21,Japan,22,1892,10,4,18,16,73.4,27,42,9,2,6.7,Synthetic — not real-world data
+126,Luca Bauer,Capital Rovers,MID,2022-23,30,France,29,2378,14,10,41,15,61.8,34,77,6,2,5.7,Synthetic — not real-world data
+126,Luca Bauer,Capital Rovers,MID,2023-24,18,Uruguay,29,2175,2,11,4,4,55.9,30,64,6,2,5.6,Synthetic — not real-world data
+127,Stefan Herrera,Capital Rovers,FWD,2021-22,22,Uruguay,34,2346,21,6,79,31,71.8,37,39,4,2,6.7,Synthetic — not real-world data
+127,Stefan Herrera,Capital Rovers,FWD,2022-23,24,Portugal,20,1480,18,10,29,29,70.9,21,30,10,2,7.0,Synthetic — not real-world data
+127,Stefan Herrera,Capital Rovers,FWD,2023-24,32,Germany,24,1968,17,8,28,27,87.2,100,40,4,3,7.2,Synthetic — not real-world data
+128,Bashir Blanc,Capital Rovers,FWD,2021-22,19,Japan,37,2997,32,12,61,54,63.4,93,11,3,3,7.7,Synthetic — not real-world data
+128,Bashir Blanc,Capital Rovers,FWD,2022-23,22,Germany,13,962,17,4,35,29,77.9,83,31,6,3,6.4,Synthetic — not real-world data
+128,Bashir Blanc,Capital Rovers,FWD,2023-24,38,Germany,11,891,19,2,23,22,78.4,38,27,1,0,5.9,Synthetic — not real-world data
+129,Hugo De Bruyne,Capital Rovers,FWD,2021-22,34,Brazil,31,2449,23,4,41,28,64.6,98,24,8,3,7.1,Synthetic — not real-world data
+129,Hugo De Bruyne,Capital Rovers,FWD,2022-23,23,Germany,29,2378,14,5,35,17,65.8,53,17,9,0,5.7,Synthetic — not real-world data
+129,Hugo De Bruyne,Capital Rovers,FWD,2023-24,32,South Korea,28,1932,6,9,24,7,72.4,29,6,1,1,6.4,Synthetic — not real-world data
+130,Yusuf Mbappé-Jr,Capital Rovers,FWD,2021-22,28,Mexico,23,1518,24,11,24,24,60.2,104,8,6,1,6.9,Synthetic — not real-world data
+130,Yusuf Mbappé-Jr,Capital Rovers,FWD,2022-23,35,Croatia,10,700,31,1,77,58,86.2,90,6,9,3,6.8,Synthetic — not real-world data
+130,Yusuf Mbappé-Jr,Capital Rovers,FWD,2023-24,38,Poland,17,1309,14,11,16,16,82.1,73,6,0,0,6.8,Synthetic — not real-world data
+131,Duarte Santos,Capital Rovers,MID,2021-22,38,Poland,15,1305,9,14,18,18,64.3,86,61,4,1,5.8,Synthetic — not real-world data
+131,Duarte Santos,Capital Rovers,MID,2022-23,25,Belgium,27,1890,11,10,26,12,62.3,75,31,7,0,6.3,Synthetic — not real-world data
+131,Duarte Santos,Capital Rovers,MID,2023-24,30,Spain,34,2074,4,8,15,5,72.1,45,43,5,2,6.2,Synthetic — not real-world data
+132,Andre Szymański,Capital Rovers,MID,2021-22,34,Nigeria,38,2812,12,6,39,31,77.6,33,40,9,1,5.6,Synthetic — not real-world data
+132,Andre Szymański,Capital Rovers,MID,2022-23,17,Senegal,11,935,12,7,17,15,94.7,31,80,3,3,6.7,Synthetic — not real-world data
+132,Andre Szymański,Capital Rovers,MID,2023-24,35,Nigeria,13,1027,2,7,4,4,55.0,25,78,4,3,5.6,Synthetic — not real-world data
+133,Kylian Nakamura,Capital Rovers,DEF,2021-22,28,Mexico,16,1440,5,5,16,5,81.6,18,90,6,1,5.3,Synthetic — not real-world data
+133,Kylian Nakamura,Capital Rovers,DEF,2022-23,19,Mexico,18,1458,6,3,7,6,59.1,27,107,10,0,5.1,Synthetic — not real-world data
+133,Kylian Nakamura,Capital Rovers,DEF,2023-24,22,Spain,37,2886,5,5,18,11,87.6,17,113,2,0,5.9,Synthetic — not real-world data
+134,Marco Brooks,Capital Rovers,FWD,2021-22,27,South Korea,22,1408,31,11,119,102,58.8,103,27,10,2,8.0,Synthetic — not real-world data
+134,Marco Brooks,Capital Rovers,FWD,2022-23,36,Argentina,12,948,17,3,17,17,67.8,72,5,0,0,6.3,Synthetic — not real-world data
+134,Marco Brooks,Capital Rovers,FWD,2023-24,23,Germany,17,1496,19,3,51,21,84.5,88,31,3,0,6.0,Synthetic — not real-world data
+135,Noel Ricci,Capital Rovers,FWD,2021-22,38,Croatia,28,2268,22,6,66,64,62.5,79,26,3,2,6.8,Synthetic — not real-world data
+135,Noel Ricci,Capital Rovers,FWD,2022-23,36,Denmark,28,1876,23,8,64,48,59.3,45,27,10,0,6.8,Synthetic — not real-world data
+135,Noel Ricci,Capital Rovers,FWD,2023-24,35,Argentina,25,1650,22,12,76,35,56.9,61,31,10,1,6.9,Synthetic — not real-world data
+136,Carlos Diallo,Capital Rovers,DEF,2021-22,23,Croatia,23,1817,5,0,14,5,94.1,12,88,3,1,6.3,Synthetic — not real-world data
+136,Carlos Diallo,Capital Rovers,DEF,2022-23,38,Poland,16,1408,3,0,12,8,77.3,28,109,8,0,6.0,Synthetic — not real-world data
+136,Carlos Diallo,Capital Rovers,DEF,2023-24,34,Croatia,31,1953,2,7,2,2,82.0,15,83,8,2,6.3,Synthetic — not real-world data
+137,Renato Dias,Capital Rovers,DEF,2021-22,19,South Korea,24,2016,1,0,2,1,68.6,40,43,2,1,5.5,Synthetic — not real-world data
+137,Renato Dias,Capital Rovers,DEF,2022-23,34,Mexico,23,2047,3,4,10,3,71.6,27,118,9,2,6.0,Synthetic — not real-world data
+137,Renato Dias,Capital Rovers,DEF,2023-24,37,Spain,18,1242,1,0,3,1,59.4,31,81,0,0,5.0,Synthetic — not real-world data
+138,Jordi Johnson,Capital Rovers,MID,2021-22,35,Germany,13,988,4,12,9,5,63.6,80,69,8,0,6.3,Synthetic — not real-world data
+138,Jordi Johnson,Capital Rovers,MID,2022-23,20,Brazil,27,2133,11,12,37,24,60.9,37,48,2,2,7.0,Synthetic — not real-world data
+138,Jordi Johnson,Capital Rovers,MID,2023-24,23,England,26,1716,14,11,52,17,63.0,31,85,3,1,6.2,Synthetic — not real-world data
+139,Tomas Puig,Capital Rovers,MID,2021-22,21,Belgium,35,2975,7,11,19,12,83.9,81,43,5,2,6.2,Synthetic — not real-world data
+139,Tomas Puig,Capital Rovers,MID,2022-23,37,Japan,10,690,5,13,10,10,55.9,18,40,6,0,5.9,Synthetic — not real-world data
+139,Tomas Puig,Capital Rovers,MID,2023-24,17,Uruguay,11,869,7,6,18,12,60.1,16,62,1,1,6.4,Synthetic — not real-world data
+140,Oscar Hassan,Capital Rovers,FWD,2021-22,22,Belgium,36,3240,29,11,96,96,69.1,112,28,5,1,7.6,Synthetic — not real-world data
+140,Oscar Hassan,Capital Rovers,FWD,2022-23,29,Brazil,34,2788,28,5,82,43,89.7,58,32,2,2,6.8,Synthetic — not real-world data
+140,Oscar Hassan,Capital Rovers,FWD,2023-24,19,Denmark,32,2048,13,5,44,39,64.1,58,19,6,0,5.4,Synthetic — not real-world data
+141,Paulo Novak,Eastside United,DEF,2021-22,31,Germany,19,1653,4,6,6,5,70.4,17,48,2,2,5.4,Synthetic — not real-world data
+141,Paulo Novak,Eastside United,DEF,2022-23,23,Argentina,28,2240,2,4,8,6,94.8,13,89,4,0,6.4,Synthetic — not real-world data
+141,Paulo Novak,Eastside United,DEF,2023-24,33,Colombia,11,748,5,7,5,5,80.8,5,39,10,3,6.5,Synthetic — not real-world data
+142,Javier Al-Farsi,Eastside United,GK,2021-22,21,Croatia,21,1764,0,1,1,1,82.2,3,8,6,2,5.8,Synthetic — not real-world data
+142,Javier Al-Farsi,Eastside United,GK,2022-23,25,Italy,34,2618,1,0,3,2,66.4,2,8,2,2,6.0,Synthetic — not real-world data
+142,Javier Al-Farsi,Eastside United,GK,2023-24,32,Portugal,29,2523,0,1,0,0,58.9,2,9,7,1,5.9,Synthetic — not real-world data
+143,Luis Martínez,Eastside United,MID,2021-22,31,Senegal,22,1584,5,10,8,6,79.7,75,64,1,0,6.8,Synthetic — not real-world data
+143,Luis Martínez,Eastside United,MID,2022-23,25,England,27,1998,9,8,19,11,94.7,62,45,5,0,5.7,Synthetic — not real-world data
+143,Luis Martínez,Eastside United,MID,2023-24,36,Mexico,28,1960,7,7,28,25,68.4,64,79,10,0,6.6,Synthetic — not real-world data
+144,Xavier Pereira,Eastside United,DEF,2021-22,32,France,14,1190,2,1,8,4,73.4,17,116,5,1,5.0,Synthetic — not real-world data
+144,Xavier Pereira,Eastside United,DEF,2022-23,17,Argentina,37,2664,5,7,16,11,93.0,25,55,7,0,6.8,Synthetic — not real-world data
+144,Xavier Pereira,Eastside United,DEF,2023-24,23,Senegal,32,2496,6,2,16,12,78.6,17,47,6,2,5.3,Synthetic — not real-world data
+145,Emre Schneider,Eastside United,DEF,2021-22,29,Italy,21,1617,2,6,4,3,73.9,24,120,5,2,6.1,Synthetic — not real-world data
+145,Emre Schneider,Eastside United,DEF,2022-23,34,Netherlands,25,1800,4,0,10,7,65.5,32,46,8,1,5.3,Synthetic — not real-world data
+145,Emre Schneider,Eastside United,DEF,2023-24,19,England,15,1050,0,4,1,1,56.0,18,95,7,2,5.1,Synthetic — not real-world data
+146,Diego Dembélé,Eastside United,MID,2021-22,29,Mexico,33,2574,2,2,5,2,60.0,44,81,0,0,5.2,Synthetic — not real-world data
+146,Diego Dembélé,Eastside United,MID,2022-23,35,Netherlands,37,3293,11,3,35,26,78.9,28,42,2,0,6.5,Synthetic — not real-world data
+146,Diego Dembélé,Eastside United,MID,2023-24,22,Argentina,10,690,3,2,4,4,62.9,64,37,1,0,5.8,Synthetic — not real-world data
+147,Quincy Wagner,Eastside United,MID,2021-22,31,Germany,18,1350,11,8,41,20,85.9,27,79,7,3,6.0,Synthetic — not real-world data
+147,Quincy Wagner,Eastside United,MID,2022-23,31,Colombia,17,1156,13,10,38,16,65.6,24,71,4,2,6.7,Synthetic — not real-world data
+147,Quincy Wagner,Eastside United,MID,2023-24,25,Croatia,24,1464,13,14,16,14,84.4,70,27,2,2,6.2,Synthetic — not real-world data
+148,Rafael Müller,Eastside United,DEF,2021-22,36,Portugal,12,768,4,1,16,7,75.0,16,66,9,3,6.1,Synthetic — not real-world data
+148,Rafael Müller,Eastside United,DEF,2022-23,34,Poland,11,891,3,6,9,9,58.3,33,107,9,2,6.5,Synthetic — not real-world data
+148,Rafael Müller,Eastside United,DEF,2023-24,27,Poland,21,1722,0,4,1,0,84.2,32,99,2,1,5.1,Synthetic — not real-world data
+149,Caden Hansen,Eastside United,MID,2021-22,30,Mexico,14,1092,6,12,24,20,91.9,77,34,8,3,6.9,Synthetic — not real-world data
+149,Caden Hansen,Eastside United,MID,2022-23,29,Portugal,28,1820,4,8,6,4,57.5,60,61,0,0,5.7,Synthetic — not real-world data
+149,Caden Hansen,Eastside United,MID,2023-24,27,Denmark,36,2484,2,5,2,2,91.5,27,25,8,2,5.8,Synthetic — not real-world data
+150,Mikel Ferreira,Eastside United,MID,2021-22,24,Denmark,11,957,3,12,8,7,60.5,57,40,5,3,5.7,Synthetic — not real-world data
+150,Mikel Ferreira,Eastside United,MID,2022-23,19,France,29,2175,6,12,12,6,94.5,38,82,7,3,6.5,Synthetic — not real-world data
+150,Mikel Ferreira,Eastside United,MID,2023-24,26,England,31,2232,8,8,8,8,74.0,80,63,6,0,6.6,Synthetic — not real-world data
+151,Ivan Fonseca,Eastside United,MID,2021-22,36,Nigeria,27,2430,4,6,12,4,73.4,14,67,2,2,5.3,Synthetic — not real-world data
+151,Ivan Fonseca,Eastside United,MID,2022-23,31,Argentina,25,2200,13,16,43,29,67.2,32,69,5,1,6.4,Synthetic — not real-world data
+151,Ivan Fonseca,Eastside United,MID,2023-24,18,Japan,36,2664,2,5,8,8,65.0,56,80,3,0,5.3,Synthetic — not real-world data
+152,Neylan Zubizarreta,Eastside United,DEF,2021-22,38,Spain,21,1533,0,4,1,1,72.6,33,60,8,1,5.0,Synthetic — not real-world data
+152,Neylan Zubizarreta,Eastside United,DEF,2022-23,32,Colombia,26,1664,5,0,12,10,71.6,25,90,4,1,5.2,Synthetic — not real-world data
+152,Neylan Zubizarreta,Eastside United,DEF,2023-24,23,Brazil,35,2660,2,0,3,2,85.1,25,68,1,1,5.7,Synthetic — not real-world data
+153,Eduardo García,Eastside United,MID,2021-22,38,Spain,14,1106,3,10,7,3,71.7,66,85,8,2,6.7,Synthetic — not real-world data
+153,Eduardo García,Eastside United,MID,2022-23,34,Croatia,32,2816,6,12,19,6,84.0,74,20,7,3,6.2,Synthetic — not real-world data
+153,Eduardo García,Eastside United,MID,2023-24,34,Senegal,36,2160,12,11,47,17,59.3,43,75,0,0,6.2,Synthetic — not real-world data
+154,Theo Okonkwo,Eastside United,FWD,2021-22,19,Portugal,26,1664,14,7,55,30,89.5,42,34,9,1,6.3,Synthetic — not real-world data
+154,Theo Okonkwo,Eastside United,FWD,2022-23,27,Nigeria,33,2541,13,7,52,18,64.9,84,8,0,0,6.9,Synthetic — not real-world data
+154,Theo Okonkwo,Eastside United,FWD,2023-24,33,Mexico,18,1548,18,12,59,23,68.5,107,31,5,3,6.4,Synthetic — not real-world data
+155,Kenji Sørensen,Eastside United,MID,2021-22,17,South Korea,33,2442,7,4,28,9,69.5,31,48,2,0,6.0,Synthetic — not real-world data
+155,Kenji Sørensen,Eastside United,MID,2022-23,35,Uruguay,27,2214,10,2,15,15,82.0,88,75,5,2,6.2,Synthetic — not real-world data
+155,Kenji Sørensen,Eastside United,MID,2023-24,37,South Korea,11,682,2,14,2,2,87.9,79,56,0,0,6.9,Synthetic — not real-world data
+156,Wojtek Traoré,Eastside United,FWD,2021-22,23,Uruguay,21,1806,32,6,71,57,75.5,84,40,9,3,7.7,Synthetic — not real-world data
+156,Wojtek Traoré,Eastside United,FWD,2022-23,26,Colombia,30,1980,15,2,60,59,70.7,97,20,6,3,6.5,Synthetic — not real-world data
+156,Wojtek Traoré,Eastside United,FWD,2023-24,22,Denmark,38,2888,8,12,13,13,84.6,103,5,5,2,6.4,Synthetic — not real-world data
+157,Artem Ruiz,Eastside United,MID,2021-22,20,Senegal,27,1755,13,2,35,35,66.0,16,63,10,1,6.5,Synthetic — not real-world data
+157,Artem Ruiz,Eastside United,MID,2022-23,19,Japan,32,2752,9,6,10,9,88.2,89,57,6,3,6.5,Synthetic — not real-world data
+157,Artem Ruiz,Eastside United,MID,2023-24,17,Nigeria,12,984,13,3,45,35,84.8,67,51,1,0,5.4,Synthetic — not real-world data
+158,Finn Kovač,Eastside United,DEF,2021-22,35,Japan,29,1885,6,1,12,7,78.9,40,50,0,0,5.7,Synthetic — not real-world data
+158,Finn Kovač,Eastside United,DEF,2022-23,38,England,19,1482,3,7,11,3,62.7,6,65,1,0,5.8,Synthetic — not real-world data
+158,Finn Kovač,Eastside United,DEF,2023-24,21,Spain,20,1380,0,4,1,0,58.5,28,69,7,0,5.0,Synthetic — not real-world data
+159,Giorgio Costa,Eastside United,MID,2021-22,34,Belgium,34,2958,14,9,22,17,92.0,59,59,9,2,6.0,Synthetic — not real-world data
+159,Giorgio Costa,Eastside United,MID,2022-23,20,Colombia,22,1672,2,11,5,2,79.0,26,33,0,0,5.4,Synthetic — not real-world data
+159,Giorgio Costa,Eastside United,MID,2023-24,36,Nigeria,36,2844,8,9,22,18,57.2,86,46,4,2,6.6,Synthetic — not real-world data
+160,Christoph Silva,Eastside United,MID,2021-22,19,Croatia,37,2812,2,6,4,3,91.7,28,36,0,0,5.7,Synthetic — not real-world data
+160,Christoph Silva,Eastside United,MID,2022-23,38,England,26,2132,10,4,17,13,86.7,16,65,3,3,5.3,Synthetic — not real-world data
+160,Christoph Silva,Eastside United,MID,2023-24,30,Croatia,26,2184,10,7,25,25,73.0,38,25,3,3,6.4,Synthetic — not real-world data
