@@ -57,7 +57,6 @@ IBM/
 ├── football_players.csv      # Generated dataset (committed)
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
-├── football-analytics-plan.md
 └── .streamlit/
     └── config.toml           # Dark theme configuration
 ```
