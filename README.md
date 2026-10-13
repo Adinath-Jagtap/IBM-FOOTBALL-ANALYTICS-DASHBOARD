@@ -54,7 +54,6 @@ All records carry a `data_source = "Synthetic — not real-world data"` column.
 ```
 IBM/
 ├── app.py                    # Main Streamlit dashboard
-├── generate_data.py          # Synthetic dataset generator
 ├── football_players.csv      # Generated dataset (committed)
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
