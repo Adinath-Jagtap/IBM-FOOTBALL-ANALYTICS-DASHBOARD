@@ -63,59 +63,6 @@ IBM/
 
 ---
 
-## Getting Started (Local)
-
-### 1. Clone / download the project
-
-```bash
-git clone <your-repo-url>
-cd IBM
-```
-
-### 2. Create a virtual environment (recommended)
-
-```bash
-python -m venv venv
-
-# Windows
-venv\Scripts\activate
-
-# macOS / Linux
-source venv/bin/activate
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Generate the dataset (already committed, but regenerate if needed)
-
-```bash
-python generate_data.py
-```
-
-### 5. Run the app
-
-```bash
-streamlit run app.py
-```
-
-The dashboard opens automatically at `http://localhost:8501`.
-
----
-
-## Deployment — Streamlit Community Cloud
-
-1. Push the project to a public GitHub repository.
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-3. Click **New app** → select your repository → set **Main file path** to `app.py`.
-4. Click **Deploy**.
-
-> Streamlit Cloud reads `requirements.txt` automatically. The `football_players.csv` must be committed to the repository so the app can load it on the cloud.
-
----
 
 ## Running Commands Reference
 
